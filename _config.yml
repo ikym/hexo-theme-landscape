@@ -2,6 +2,7 @@
 menu:
   Home: /
   Archives: /archives
+  About: /about
 rss: /atom.xml
 
 # Content
@@ -29,11 +30,11 @@ show_count: false
 
 # Miscellaneous
 google_analytics:
-gauges_analytics:
+#gauges_analytics:
 favicon: /favicon.png
-twitter:
-fb_admins:
-fb_app_id:
+#twitter:
+#fb_admins:
+#fb_app_id:
 
 # valine comment system. https://valine.js.org
 valine:
